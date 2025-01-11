@@ -1,7 +1,6 @@
-# Principles of Writing Consistent, Idiomatic JavaScript
+# Prinsip Penulisan JavaScript yang Konsisten dan Idiomatik
 
-
-## This is a living document and new ideas for improving the code around us are always welcome. Contribute: fork, clone, branch, commit, push, pull request.
+## Dokumen ini bersifat dinamis, dan ide-ide baru untuk meningkatkan kualitas kode selalu diterima. Berkontribusilah dengan cara: fork, clone, buat branch, commit, push, lalu ajukan pull request.
 
 * Rick Waldron [@rwaldron](http://twitter.com/rwaldron), [github](https://github.com/rwaldron)
 * Mathias Bynens [@mathias](http://twitter.com/mathias), [github](https://github.com/mathiasbynens)
@@ -47,16 +46,16 @@
 ### Saya tidak berniat untuk memaksakan preferensi gaya saya pada kode orang lain atau proyek; jika gaya umum sudah ada, itu harus dihormati.
 
 
-> ### "Arguments over style are pointless. There should be a style guide, and you should follow it"
+> ### "Perdebatan tentang gaya penulisan tidak ada gunanya. Sebaiknya ada panduan gaya, dan Anda harus mengikutinya."
 >_Rebecca_ _Murphey_
 
 &nbsp;
 
-> ### "Part of being a good steward to a successful project is realizing that writing code for yourself is a Bad Idea™. If thousands of people are using your code, then write your code for maximum clarity, not your personal preference of how to get clever within the spec."
+> ### "Menjadi pengelola yang baik dalam sebuah proyek yang sukses berarti menyadari bahwa menulis kode hanya untuk diri sendiri adalah Ide Buruk™. Jika ribuan orang menggunakan kode Anda, tulislah kode dengan kejelasan maksimal, bukan berdasarkan preferensi pribadi untuk berkreasi cerdas dalam batas spesifikasi."
 >_Idan_ _Gazit_
 
 
-## Translations
+## Terjemahan ke bahasa lain
 
 * [ORIGINAL](https://github.com/rwldrn/idiomatic.js/)
 * [Bulgarian](https://github.com/rwldrn/idiomatic.js/tree/master/translations/bg_BG)
@@ -77,9 +76,9 @@
 * [Greek](https://github.com/rwaldron/idiomatic.js/tree/master/translations/gr_GR)
 * [Hindi](https://github.com/rwaldron/idiomatic.js/tree/master/translations/hi_HI)  
 
-## Penting, Non-idiomatic Stuff:
+## Penting, Hal-Hal yang Tidak Idiomatik:
 
-### Code Quality Tools, Resources dan Referensi
+### Alat, Sumber Daya, dan Referensi untuk Kualitas Kode
 
  * [JavaScript Plugin](http://docs.codehaus.org/display/SONAR/JavaScript+Plugin) for [Sonar](http://www.sonarsource.org/)
  * [Plato](https://github.com/es-analysis/plato)
